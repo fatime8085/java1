@@ -1,0 +1,12 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+}
+
+#esas{
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    float: left;
+   
+}
